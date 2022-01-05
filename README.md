@@ -1,2 +1,2 @@
-# Machine-Learning-in-GISdwdwd
-Land use and land cover Classification using machine learning algorithm
+# GIS Mapping For Land Use and Land Cover Classification
+
